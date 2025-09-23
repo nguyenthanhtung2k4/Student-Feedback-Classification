@@ -1,0 +1,8 @@
+flask
+flask-cors
+sentence-transformers
+joblib
+numpy
+scikit-learn
+xgboost
+gunicorn        # khi deploy
