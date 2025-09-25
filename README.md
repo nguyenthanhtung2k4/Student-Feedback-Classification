@@ -20,6 +20,8 @@ pip install -r requirements.txt
 
 ## Run Web
 ```bash
+cd Web
+
 python app.py
 ```
 
