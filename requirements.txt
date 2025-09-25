@@ -5,4 +5,11 @@ joblib
 numpy
 scikit-learn
 xgboost
-gunicorn        # khi deploy
+gunicorn
+datasets
+pandas
+scikit-learn
+matplotlib
+seaborn
+sentence-transformers
+underthesea

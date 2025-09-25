@@ -14,8 +14,11 @@ cd .\envStudents\Scripts\activate
 ```pip 
 pip install -r requirements.txt
 ```
+## Models
+-  File Huấn luyện nằm trong  notebook [Tại đây](./Train/train.ipynb)
 
-## Run File
+
+## Run Web
 ```bash
 python app.py
 ```
@@ -40,6 +43,8 @@ sentiment-web/
 │  └─ index.html           # frontend giao diện chính
 │  └─ admin.html           # frontend Admin
 └─ feedbacks.db            # (tự tạo khi chạy lần đầu) Database chứa các nội dung text
+└─ Train                   # Follder chứa file tiền xử lý +  huấn luyện
+│  └─ train.ipynb          # NoteBook Dùng huấn luyện
 "# Student-Feedback-Classification" 
 ```
 
