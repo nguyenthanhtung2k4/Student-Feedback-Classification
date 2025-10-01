@@ -1,4 +1,4 @@
-<h1 align="center">Phân loại cảm xúc sinh viê</h1>
+<h1 align="center">Phân loại cảm xúc sinh viên</h1>
 
 <div align="center">
 
