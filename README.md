@@ -1,4 +1,19 @@
-# BTL phân loại  cảm xúc sinh viên
+<h1 align="center">Phân loại cảm xúc sinh viê</h1>
+
+<div align="center">
+
+<p align="center">
+  <img src="reluts/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="reluts/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
+[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
+
+</div>
+
+<h2 align="center">Phân loại cảm xúc sinh viên bằng phương pháp học máy</h2>
 
 ## Setup
 - Yêu cầu python >= 3.11
